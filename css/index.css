@@ -652,6 +652,7 @@ fieldset[disabled] .wjs_nav .btn-link:focus {
     /*标签页*/
 .wjs_news .tab-content .tab-pane ul{
     list-style: none;
+    padding: 0;
 }
 .wjs_news .tab-content .tab-pane ul li{
     margin-top: 30px;
