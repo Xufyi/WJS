@@ -1,10 +1,14 @@
 # WJS
-微金所网站--响应式布局+Boostrap+jQuery
+===================================
+微金所网站
 
-在线预览: https://xufyi.github.io/WJS/  
-网站实现了响应式，可以按F12，用浏览器的调式工具切换到ihpne5,6,7....或是ipad预览效果。  
+###项目介绍  
+用Boostrap+jQuery实现响应式网站
 
-效果演示  
+###在线预览: 
+https://xufyi.github.io/WJS/  
+
+###效果演示  
 <div align=center>
    <img src="https://github.com/Xufyi/WJS/blob/master/wjs.gif" width="930" height="579">  
 </div>
